@@ -67,5 +67,14 @@ div {
     background-color: rgb(119, 119, 119);
     
 }
-
+#footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(119, 119, 119);
+    padding: 30px;
+}
+footer button {
+    padding: 8px 15px;
+}
 /* #footer butonu metni 'Başa dön' olmalı */

@@ -1,10 +1,10 @@
 {
   "stats": {
-    "expected": 16,
+    "expected": 17,
     "unexpected": 0,
     "skipped": 0,
     "flaky": 0,
-    "duration": 30201
+    "duration": 238
   },
   "tests": [
     {
@@ -20,42 +20,42 @@
     {
       "title": "#header başlığı ve menü iki yana yaslı olmalı",
       "status": "passed",
-      "duration": 11
+      "duration": 13
     },
     {
       "title": "#header içeriği dikey olarak ortalanmalı",
       "status": "passed",
-      "duration": 5
+      "duration": 6
     },
     {
       "title": "#menu esnek bir düzen kullanmalı",
       "status": "passed",
-      "duration": 12
+      "duration": 6
     },
     {
       "title": "#menu bir NAV tagi olmalı",
       "status": "passed",
-      "duration": 5
+      "duration": 7
     },
     {
       "title": "#menu linklerinin arka plan rengi doğru olmalı",
       "status": "passed",
-      "duration": 7
+      "duration": 13
     },
     {
       "title": "#menu linklerinin arka plan rengi üzerine gelindiğinde değişmeli",
       "status": "passed",
-      "duration": 36
+      "duration": 51
     },
     {
       "title": "#menu bağlantılarının iç boşluğu doğru olmalı",
       "status": "passed",
-      "duration": 42
+      "duration": 38
     },
     {
       "title": "#hero display özelliği doğru olmalı",
       "status": "passed",
-      "duration": 5
+      "duration": 6
     },
     {
       "title": "#hero içeriği dikey olarak sıralı olmalı",
@@ -65,12 +65,12 @@
     {
       "title": "#hero içeriği yatay ve dikey olarak ortalanmalı",
       "status": "passed",
-      "duration": 5
+      "duration": 6
     },
     {
       "title": "#hero içeriği dikey olarak ortalanmalı",
       "status": "passed",
-      "duration": 5
+      "duration": 15
     },
     {
       "title": "#gallery genişliği doğru olmalı",
@@ -80,17 +80,17 @@
     {
       "title": "#gallery display değeri doğru olmalı",
       "status": "passed",
-      "duration": 4
+      "duration": 5
     },
     {
       "title": "#gallery ögeleri arasında eşit mesafe olmalı",
       "status": "passed",
-      "duration": 6
+      "duration": 5
     },
     {
       "title": "#footer butonu doğru metni içermeli",
-      "status": "timedOut",
-      "duration": 30005
+      "status": "passed",
+      "duration": 14
     }
   ]
 }
