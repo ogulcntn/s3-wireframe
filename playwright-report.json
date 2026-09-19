@@ -4,7 +4,7 @@
     "unexpected": 6,
     "skipped": 0,
     "flaky": 0,
-    "duration": 30381
+    "duration": 30387
   },
   "tests": [
     {
@@ -20,7 +20,7 @@
     {
       "title": "#header başlığı ve menü iki yana yaslı olmalı",
       "status": "passed",
-      "duration": 11
+      "duration": 13
     },
     {
       "title": "#header içeriği dikey olarak ortalanmalı",
@@ -30,12 +30,12 @@
     {
       "title": "#menu esnek bir düzen kullanmalı",
       "status": "passed",
-      "duration": 6
+      "duration": 12
     },
     {
       "title": "#menu bir NAV tagi olmalı",
       "status": "passed",
-      "duration": 6
+      "duration": 5
     },
     {
       "title": "#menu linklerinin arka plan rengi doğru olmalı",
@@ -45,22 +45,22 @@
     {
       "title": "#menu linklerinin arka plan rengi üzerine gelindiğinde değişmeli",
       "status": "passed",
-      "duration": 39
+      "duration": 38
     },
     {
       "title": "#menu bağlantılarının iç boşluğu doğru olmalı",
       "status": "passed",
-      "duration": 42
+      "duration": 34
     },
     {
       "title": "#hero display özelliği doğru olmalı",
       "status": "failed",
-      "duration": 7
+      "duration": 9
     },
     {
       "title": "#hero içeriği dikey olarak sıralı olmalı",
       "status": "failed",
-      "duration": 48
+      "duration": 47
     },
     {
       "title": "#hero içeriği yatay ve dikey olarak ortalanmalı",
@@ -80,17 +80,17 @@
     {
       "title": "#gallery display değeri doğru olmalı",
       "status": "failed",
-      "duration": 8
+      "duration": 9
     },
     {
       "title": "#gallery ögeleri arasında eşit mesafe olmalı",
       "status": "failed",
-      "duration": 39
+      "duration": 44
     },
     {
       "title": "#footer butonu doğru metni içermeli",
       "status": "timedOut",
-      "duration": 30001
+      "duration": 30002
     }
   ]
 }
