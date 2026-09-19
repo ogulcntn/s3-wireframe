@@ -4,13 +4,13 @@
     "unexpected": 15,
     "skipped": 0,
     "flaky": 0,
-    "duration": 30767
+    "duration": 30755
   },
   "tests": [
     {
       "title": "#header genişliği doğru olmalı",
       "status": "failed",
-      "duration": 38
+      "duration": 41
     },
     {
       "title": "#header yatay hizalaması doğru olmalı",
@@ -20,22 +20,22 @@
     {
       "title": "#header başlığı ve menü iki yana yaslı olmalı",
       "status": "failed",
-      "duration": 40
+      "duration": 38
     },
     {
       "title": "#header içeriği dikey olarak ortalanmalı",
       "status": "failed",
-      "duration": 43
+      "duration": 42
     },
     {
       "title": "#menu esnek bir düzen kullanmalı",
       "status": "failed",
-      "duration": 43
+      "duration": 50
     },
     {
       "title": "#menu bir NAV tagi olmalı",
       "status": "passed",
-      "duration": 44
+      "duration": 46
     },
     {
       "title": "#menu linklerinin arka plan rengi doğru olmalı",
@@ -45,52 +45,52 @@
     {
       "title": "#menu linklerinin arka plan rengi üzerine gelindiğinde değişmeli",
       "status": "failed",
-      "duration": 90
+      "duration": 86
     },
     {
       "title": "#menu bağlantılarının iç boşluğu doğru olmalı",
       "status": "failed",
-      "duration": 99
+      "duration": 93
     },
     {
       "title": "#hero display özelliği doğru olmalı",
       "status": "failed",
-      "duration": 44
+      "duration": 49
     },
     {
       "title": "#hero içeriği dikey olarak sıralı olmalı",
       "status": "failed",
-      "duration": 42
+      "duration": 47
     },
     {
       "title": "#hero içeriği yatay ve dikey olarak ortalanmalı",
       "status": "failed",
-      "duration": 45
+      "duration": 41
     },
     {
       "title": "#hero içeriği dikey olarak ortalanmalı",
       "status": "failed",
-      "duration": 46
+      "duration": 41
     },
     {
       "title": "#gallery genişliği doğru olmalı",
       "status": "failed",
-      "duration": 44
+      "duration": 43
     },
     {
       "title": "#gallery display değeri doğru olmalı",
       "status": "failed",
-      "duration": 41
+      "duration": 42
     },
     {
       "title": "#gallery ögeleri arasında eşit mesafe olmalı",
       "status": "failed",
-      "duration": 43
+      "duration": 38
     },
     {
       "title": "#footer butonu doğru metni içermeli",
       "status": "timedOut",
-      "duration": 30013
+      "duration": 30006
     }
   ]
 }
