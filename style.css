@@ -1,5 +1,15 @@
 /* #header, #hero, #gallery, #footer genişlikleri 750px olmalı */
-
+#header {
+    width: 750px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+h1 {
+    font-size: 20px;
+}
 /* #menu bir <nav> olmalı */
 /* #menu içindeki linklerin arka plan rengi: #777 */
 /* #menu linklerine hover yapıldığında arka plan rengi: #000 */
