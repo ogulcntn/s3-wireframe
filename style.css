@@ -1,8 +1,11 @@
 /* #header, #hero, #gallery, #footer genişlikleri 750px olmalı */
-#header {
+div {
     width: 750px;
-    margin-left: auto;
     margin-right: auto;
+    margin-left: auto;
+}
+#header {
+    
     display: flex;
     justify-content: space-between;
     align-items: center;

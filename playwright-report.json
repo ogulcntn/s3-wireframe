@@ -1,36 +1,36 @@
 {
   "stats": {
-    "expected": 9,
-    "unexpected": 7,
+    "expected": 10,
+    "unexpected": 6,
     "skipped": 0,
     "flaky": 0,
-    "duration": 30412
+    "duration": 30381
   },
   "tests": [
     {
       "title": "#header genişliği doğru olmalı",
       "status": "passed",
-      "duration": 38
+      "duration": 36
     },
     {
       "title": "#header yatay hizalaması doğru olmalı",
       "status": "passed",
-      "duration": 7
+      "duration": 6
     },
     {
       "title": "#header başlığı ve menü iki yana yaslı olmalı",
       "status": "passed",
-      "duration": 12
+      "duration": 11
     },
     {
       "title": "#header içeriği dikey olarak ortalanmalı",
       "status": "passed",
-      "duration": 5
+      "duration": 6
     },
     {
       "title": "#menu esnek bir düzen kullanmalı",
       "status": "passed",
-      "duration": 5
+      "duration": 6
     },
     {
       "title": "#menu bir NAV tagi olmalı",
@@ -45,7 +45,7 @@
     {
       "title": "#menu linklerinin arka plan rengi üzerine gelindiğinde değişmeli",
       "status": "passed",
-      "duration": 46
+      "duration": 39
     },
     {
       "title": "#menu bağlantılarının iç boşluğu doğru olmalı",
@@ -60,37 +60,37 @@
     {
       "title": "#hero içeriği dikey olarak sıralı olmalı",
       "status": "failed",
-      "duration": 40
+      "duration": 48
     },
     {
       "title": "#hero içeriği yatay ve dikey olarak ortalanmalı",
       "status": "failed",
-      "duration": 37
+      "duration": 41
     },
     {
       "title": "#hero içeriği dikey olarak ortalanmalı",
       "status": "failed",
-      "duration": 38
+      "duration": 40
     },
     {
       "title": "#gallery genişliği doğru olmalı",
-      "status": "failed",
-      "duration": 42
+      "status": "passed",
+      "duration": 39
     },
     {
       "title": "#gallery display değeri doğru olmalı",
       "status": "failed",
-      "duration": 37
+      "duration": 8
     },
     {
       "title": "#gallery ögeleri arasında eşit mesafe olmalı",
       "status": "failed",
-      "duration": 42
+      "duration": 39
     },
     {
       "title": "#footer butonu doğru metni içermeli",
       "status": "timedOut",
-      "duration": 30002
+      "duration": 30001
     }
   ]
 }
